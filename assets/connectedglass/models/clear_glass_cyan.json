@@ -1,0 +1,8 @@
+{
+  "parent": "connectedglass:block/cube_all",
+  "textures": {
+    "all": "connectedglass:clear_glass/clear_glass_cyan"
+  },
+  "loader": "fusion:model",
+  "type": "fusion:connecting"
+}

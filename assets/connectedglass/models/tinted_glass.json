@@ -1,0 +1,6 @@
+{
+  "parent": "connectedglass:block/cube_all",
+  "textures": {
+    "all": "connectedglass:tinted_glass"
+  }
+}
